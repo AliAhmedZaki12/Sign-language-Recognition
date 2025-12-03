@@ -78,4 +78,4 @@ Controls during prediction:
 
 ---
 
-هل تريد أن أصممها؟
+
